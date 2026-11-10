@@ -1,0 +1,164 @@
+{
+  "scores": [
+    {
+      "id": "huangqiang",
+      "title": "荒腔慢句",
+      "difficulty": "入门",
+      "usedNotes": ["5", "6", "1", "2"],
+      "lines": [
+        [
+          { "pitch": "5", "beats": 2 },
+          { "pitch": "6", "beats": 2 },
+          { "pitch": "1", "beats": 2 },
+          { "pitch": "2", "beats": 2 }
+        ],
+        [
+          { "pitch": "2", "beats": 2 },
+          { "pitch": "1", "beats": 2 },
+          { "pitch": "6", "beats": 2 },
+          { "pitch": "5", "beats": 2 }
+        ],
+        [
+          { "pitch": "5", "beats": 4 },
+          { "rest": true, "beats": 2 },
+          { "pitch": "6", "beats": 2 }
+        ],
+        [
+          { "pitch": "1", "beats": 4 },
+          { "pitch": "5", "beats": 4 }
+        ]
+      ]
+    },
+    {
+      "id": "guanshanyue",
+      "title": "关山月（简）",
+      "difficulty": "入门",
+      "usedNotes": ["5", "6", "1", "2", "3"],
+      "lines": [
+        [
+          { "pitch": "5", "beats": 2 },
+          { "pitch": "6", "beats": 1 },
+          { "pitch": "1", "beats": 1 },
+          { "pitch": "2", "beats": 2 },
+          { "pitch": "3", "beats": 2 }
+        ],
+        [
+          { "pitch": "2", "beats": 2 },
+          { "pitch": "1", "beats": 2 },
+          { "pitch": "6", "beats": 2 },
+          { "pitch": "5", "beats": 2 }
+        ],
+        [
+          { "pitch": "6", "beats": 2 },
+          { "pitch": "1", "beats": 2 },
+          { "pitch": "2", "beats": 4 }
+        ],
+        [
+          { "pitch": "1", "beats": 2 },
+          { "pitch": "6", "beats": 2 },
+          { "pitch": "5", "beats": 4 }
+        ]
+      ]
+    },
+    {
+      "id": "pingsha",
+      "title": "平沙落雁（简）",
+      "difficulty": "入门",
+      "usedNotes": ["5", "6", "1", "2", "3", "5'"],
+      "lines": [
+        [
+          { "pitch": "5", "beats": 2 },
+          { "pitch": "1", "beats": 2 },
+          { "pitch": "2", "beats": 2 },
+          { "pitch": "3", "beats": 2 }
+        ],
+        [
+          { "pitch": "2", "beats": 1 },
+          { "pitch": "1", "beats": 1 },
+          { "pitch": "6", "beats": 2 },
+          { "pitch": "5", "beats": 4 }
+        ],
+        [
+          { "pitch": "1", "beats": 2 },
+          { "pitch": "2", "beats": 2 },
+          { "pitch": "5'", "beats": 4 }
+        ],
+        [
+          { "pitch": "3", "beats": 2 },
+          { "pitch": "2", "beats": 2 },
+          { "pitch": "1", "beats": 2 },
+          { "pitch": "5", "beats": 2 }
+        ]
+      ]
+    },
+    {
+      "id": "yangguan",
+      "title": "阳关三叠（简）",
+      "difficulty": "略难",
+      "usedNotes": ["5", "6", "1", "2", "3", "5'"],
+      "lines": [
+        [
+          { "pitch": "5", "beats": 1 },
+          { "pitch": "6", "beats": 1 },
+          { "pitch": "1", "beats": 2 },
+          { "pitch": "2", "beats": 2 },
+          { "pitch": "3", "beats": 2 }
+        ],
+        [
+          { "pitch": "2", "beats": 2 },
+          { "pitch": "1", "beats": 1 },
+          { "pitch": "6", "beats": 1 },
+          { "pitch": "5", "beats": 4 }
+        ],
+        [
+          { "pitch": "1", "beats": 2 },
+          { "pitch": "2", "beats": 2 },
+          { "pitch": "3", "beats": 1 },
+          { "pitch": "5'", "beats": 1 },
+          { "pitch": "3", "beats": 2 }
+        ],
+        [
+          { "pitch": "2", "beats": 2 },
+          { "pitch": "1", "beats": 2 },
+          { "pitch": "6", "beats": 2 },
+          { "pitch": "5", "beats": 2 }
+        ]
+      ]
+    },
+    {
+      "id": "hangong",
+      "title": "汉宫秋月（简）",
+      "difficulty": "略难",
+      "usedNotes": ["5", "6", "7", "1", "2", "3", "5'"],
+      "lines": [
+        [
+          { "pitch": "5", "beats": 2 },
+          { "pitch": "6", "beats": 1 },
+          { "pitch": "7", "beats": 1 },
+          { "pitch": "1", "beats": 2 },
+          { "pitch": "2", "beats": 2 }
+        ],
+        [
+          { "pitch": "3", "beats": 2 },
+          { "pitch": "2", "beats": 1 },
+          { "pitch": "1", "beats": 1 },
+          { "pitch": "6", "beats": 2 },
+          { "pitch": "5", "beats": 2 }
+        ],
+        [
+          { "pitch": "1", "beats": 2 },
+          { "pitch": "2", "beats": 2 },
+          { "pitch": "3", "beats": 2 },
+          { "pitch": "5'", "beats": 2 }
+        ],
+        [
+          { "rest": true, "beats": 1 },
+          { "pitch": "3", "beats": 1 },
+          { "pitch": "2", "beats": 2 },
+          { "pitch": "1", "beats": 2 },
+          { "pitch": "5", "beats": 2 }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "holeLabels": [
+    "后孔",
+    "前一",
+    "前二",
+    "前三",
+    "前四",
+    "前五",
+    "前六",
+    "底孔"
+  ],
+  "notes": [
+    {
+      "id": "5",
+      "jianpu": "5",
+      "holes": [true, true, true, true, true, true, true, true],
+      "absolute": { "F": "C", "G": "D" }
+    },
+    {
+      "id": "6",
+      "jianpu": "6",
+      "holes": [true, true, true, true, true, true, true, false],
+      "absolute": { "F": "D", "G": "E" }
+    },
+    {
+      "id": "7",
+      "jianpu": "7",
+      "holes": [true, true, true, true, true, true, false, false],
+      "absolute": { "F": "E", "G": "F#" }
+    },
+    {
+      "id": "1",
+      "jianpu": "1",
+      "holes": [true, true, true, true, true, false, false, false],
+      "absolute": { "F": "F", "G": "G" }
+    },
+    {
+      "id": "2",
+      "jianpu": "2",
+      "holes": [true, true, true, true, false, false, false, false],
+      "absolute": { "F": "G", "G": "A" }
+    },
+    {
+      "id": "3",
+      "jianpu": "3",
+      "holes": [true, true, true, false, false, false, false, false],
+      "absolute": { "F": "A", "G": "B" }
+    },
+    {
+      "id": "4",
+      "jianpu": "4",
+      "holes": [true, true, false, false, false, false, false, false],
+      "absolute": { "F": "Bb", "G": "C" }
+    },
+    {
+      "id": "5h",
+      "jianpu": "5'",
+      "holes": [false, true, true, true, true, true, true, true],
+      "absolute": { "F": "C'", "G": "D'" }
+    }
+  ]
+}
